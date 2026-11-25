@@ -1,7 +1,7 @@
 # profile-title: ElizziVPN 
 # profile-update-interval: 1
 # Date/Time: 2026-11-25
-#subscription-userinfo: upload=0; download=2153701362; total=0; expire=1790951622
+#subscription-userinfo: upload=0; download=2153701362;
 #announce: By Wldv
 
 vless://e42dcf7c-a2d7-445f-82fe-7213ff24c179@us6.bestvance2026.top:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=us6.bestvance2026.top&fp=firefox&pbk=v36yrZJ-5Zikx9eh_SXaoDS2GuobOA4_WLagBVO0vxk&sid=a9c3f7e2&spx=%2F&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%BE%20%40wldv88%201
